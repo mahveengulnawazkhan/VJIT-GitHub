@@ -1,6 +1,6 @@
 # VJIT GitHub Bingo Challange
 
-| 1 | 2 | 3 | 4 |5 |
+| 1 | 2 | 3 | 4 |5 |6|
 |----- | ----- | -----| ------ |------|
 |Fork a repository | Create a new repo | Review a PR | Add COC to the repository | Star a repo |
 | Create a branch | Add a collaborator | Comment on an issue | Comment on PR | Create an organization |
